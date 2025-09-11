@@ -1,0 +1,16 @@
+# streamlit is used for the web interface
+# fpdf is used for generating PDF files
+# pypdf is used for handling PDF files
+# faiss-cpu is used for vector search
+# langchain is used for building the language model application
+# euriai is used for accessing the EurAI language model
+# langchain-community is used for additional langchain integrations
+# sentence-transformers is used for embedding generation
+streamlit
+fpdf
+pypdf
+faiss-cpu
+langchain
+euriai
+langchain-community
+sentence-transformers
