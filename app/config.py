@@ -15,7 +15,7 @@ LLM_MODEL = os.getenv("LLM_MODEL", "openai/gpt-oss-20b")
 EMBEDDING_MODEL = os.getenv("EMBEDDING_MODEL", "BAAI/bge-m3")
 
 # Legacy Euri AI Configuration (keeping for backward compatibility)
-EURI_API_KEY = os.getenv("EURI_API_KEY", "<API_KEY>")
+EURI_API_KEY = os.getenv("EURI_API_KEY", "euri-4e452443eac7f3adca982989e1e152a66c882ba4f9c287cacbc90db914415b63")
 
 # Email Configuration
 EMAIL_CONFIG = {
